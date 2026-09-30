@@ -98,11 +98,11 @@ a:focus-visible, button:focus-visible { outline: 2px solid var(--amber); outline
 
 /* ============ PROJECTS GRID ============ */
 .projects {
-  max-width: 1000px;
+  max-width: 1250px;
   margin: 1rem auto 4rem;
   padding: 0 1.5rem;
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(4, 1fr);
   justify-content: center;
   gap: 1.5rem;
 }
